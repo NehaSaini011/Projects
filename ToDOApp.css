@@ -1,0 +1,17 @@
+#id{
+    text-align: center;
+}
+#container{
+  width: fit-content;
+  margin: 0 auto;
+  text-align: left; 
+}
+
+#btn{
+   background-color:rgb(255, 137, 255);
+   text-align: center;
+}
+.delete{
+    background-color:rgb(253, 184, 184);
+    text-align: center;
+}
